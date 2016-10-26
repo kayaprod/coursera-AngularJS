@@ -1,7 +1,13 @@
-(function (){
-  'use strict';
-  angular.module('myFirstApp', [])
-  .controller('MyFirstController', function ($scope) {
-    $scope.name = "CONVERTY";
-  });
+(function () {
+'use strict';
+
+angular.module('myFirstApp', [])
+
+.controller('MyFirstController', function ($scope) {
+  $scope.name = "ARY";
+/*  $scope.sayHello = function () {
+    return "Hello Coursera!";
+  };*/
+});
+
 })();
