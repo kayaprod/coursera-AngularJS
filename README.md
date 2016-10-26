@@ -1,2 +1,2 @@
-# coursera-test
-Test repo for coursera
+# coursera-AngularJS
+Example 04
