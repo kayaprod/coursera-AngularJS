@@ -4,10 +4,10 @@
 angular.module('myFirstApp', [])
 
 .controller('MyFirstController', function ($scope) {
-  $scope.name = "ARY";
-/*  $scope.sayHello = function () {
+  //$scope.name = "ARY";
+  $scope.sayHello = function () {
     return "Hello Coursera!";
-  };*/
+  };
 });
 
 })();
